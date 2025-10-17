@@ -4,6 +4,7 @@ import { supabase } from '../../lib/supabaseClient'
 
 
 
+
 export default function PartnerPortal() {
   const [cuts, setCuts] = useState([])
 

@@ -3,6 +3,7 @@ import { supabase } from '../../lib/supabaseClient'
 
 
 
+
 import { useRouter } from 'next/router'
 
 export default function NewCut() {
